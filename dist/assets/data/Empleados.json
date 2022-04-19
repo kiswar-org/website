@@ -1,0 +1,66 @@
+{
+    "empleado": [{
+            "nombres": "Zosimo",
+            "apellidos": "Chipana Astucuri",
+            "cargo": "COE",
+            "social": [{
+                    "linkedin": "",
+                    "twitter": "",
+                    "facebook": ""
+                },
+                {
+                    "nombres": "Zosimo",
+                    "apellidos": "Chipana Astucuri",
+                    "cargo": "COE",
+                    "social": [{
+                        "linkedin": "",
+                        "twitter": "",
+                        "facebook": ""
+                    }]
+                }
+            ]
+        },
+        {
+            "nombres": "Zosimo",
+            "apellidos": "Chipana Astucuri",
+            "cargo": "COE",
+            "social": [{
+                    "linkedin": "",
+                    "twitter": "",
+                    "facebook": ""
+                },
+                {
+                    "nombres": "Zosimo",
+                    "apellidos": "Chipana Astucuri",
+                    "cargo": "COE",
+                    "social": [{
+                        "linkedin": "",
+                        "twitter": "",
+                        "facebook": ""
+                    }]
+                }
+            ]
+        },
+        {
+            "nombres": "Zosimo",
+            "apellidos": "Chipana Astucuri",
+            "cargo": "COE",
+            "social": [{
+                    "linkedin": "",
+                    "twitter": "",
+                    "facebook": ""
+                },
+                {
+                    "nombres": "Zosimo",
+                    "apellidos": "Chipana Astucuri",
+                    "cargo": "COE",
+                    "social": [{
+                        "linkedin": "",
+                        "twitter": "",
+                        "facebook": ""
+                    }]
+                }
+            ]
+        }
+    ]
+}

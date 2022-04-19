@@ -1,0 +1,17 @@
+{
+    "empresa": {
+        "empresaId": 1,
+        "razonSocial": "kiswar",
+        "nombre": "kiswar",
+        "web": "kiswar.org",
+        "correo": "kiswar_ayacucho@hotmail.com",
+        "telefono": "966880154, 966167040",
+        "direccion": "Urb. Los Licenciados Mz LL, lote 21",
+        "logo": "assets/images/logo_kiswar_basic.png",
+        "logo_basic": "assets/images/logo_kiswar_basic.png",
+        "logo_clean": "assets/images/logo_kiswar_clean.png",
+        "createdAt": 1609356064590,
+        "updatedAt": 1609356064590,
+        "uuid": "166b0b7d-1d5e-43b7-8e64-c9efb38fb86b"
+    }
+}

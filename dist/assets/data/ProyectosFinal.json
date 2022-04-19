@@ -1,0 +1,767 @@
+{
+    "proyectos": [{
+            "id": "2187856f-b7dc-4717-885e-69f2eca85f4c",
+            "denominacion": "Mejora del estado nutricional de las familias a trav&eacute;s de crianza de aves y cultivo de quinua en las comunidades de Yaruca y Totorabamba del distrito de Vinchos, Ayacucho.",
+            "periodo": "2011",
+            "detalle": "El proyecto tiene como prop&oacute;sito mejorar el acceso, la disponibilidad y la ingesta balanceada de alimentos nutritivos de las familias con ni&ntilde;os menores de cinco a&ntilde;os de las comunidades de Yaruca y Totorabamba del Distrito de Vinchos en Ayacucho. Las principales l&iacute;neas de acci&oacute;n del proyecto son: la crianza de gallinas ponedoras de raza mejorada y el cultivo de la quinua, que permitir&aacute;n a las familias acceder al consumo de alimentos formadores y energ&eacute;ticos. Asimismo, la capacitaci&oacute;n  de las familias en elaboraci&oacute;n de dietas balanceadas para favorecer la eficaz asimilaci&oacute;n de alimentos por ni&ntilde;os menores de cinco a&ntilde;os.",
+            "beneficirios": "53 familias con 35 ni&ntilde;os menores de 5 a&ntilde;os.",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                    "organizacion_financiera": {
+                        "nombre": "FONDAM",
+                        "razon_social": "Fondo de las Am&eacute;ricas",
+                        "web": "www.fondoamericas.org.pe",
+                        "correo": "fondam@fondamericas.org.pe",
+                        "telefono": "(01) 7481060",
+                        "direccion": "Av. Cristobal de Peralta Sur 1553 - Santiago de Surco Lima 33 Lima, Per&uacute;",
+                        "logo": "assets/images/content/organizaciones_financieras/fondam.png"
+                    },
+                    "moneda": "$",
+                    "importe": 20000,
+                    "periodo_ejecucion": "2011",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                },
+                {
+                    "organizacion_financiera": {
+                        "nombre": "Aporte local",
+                        "razon_social": "",
+                        "web": "",
+                        "correo": "",
+                        "telefono": "",
+                        "direccion": "",
+                        "logo": ""
+                    },
+                    "moneda": "$",
+                    "importe": 12657.71,
+                    "periodo_ejecucion": "2011",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                }
+            ],
+            "coordenada": [-13.3474, -74.4800],
+            "imagen": "assets/images/content/projects/2011/1.jpg"
+        },
+        {
+            "id": "49bdea11-8a27-44cc-95ae-00e455e8b869",
+            "denominacion": "Mejora de las condiciones de saneamiento ambiental y acceso al consumo de agua segura de la ni&ntilde;ez y familias de Yaruca, Vinchos, Ayacucho.",
+            "periodo": "2012",
+            "detalle": "El proyecto tiene como prop&oacute;sito disminuir la incidencia de enfermedades infectocontagiosas (EDA, IRA, Parasitosis) en las familias de la comunidad de Yaruca, aportando medidas de seguridad en agua y saneamiento que puedan reducir la contaminaci&oacute;n a la que est&aacute;n expuestos en sus viviendas. La acciones principales que contemplan este proyecto son las de mejorar el acceso de agua segura, mejorar las pr&aacute;cticas de higiene personal, ambiental y nutricional, as&iacute; como asesorar a los pobladores en h&aacute;bitos y conocimientos de salud sanitaria. Para ello, se rehabilitar&aacute; y ampliar&aacute; el sistema de agua potable con instalaciones domiciliarias para 35 familias; se construir&aacute;n ba&ntilde;os con arrastre hidr&aacute;ulico, cocinas mejoradas y se instalar&aacute;n 35 biohuertos para que las familias consuman productos frescas y de calidad. Los beneficiarios recibir&aacute;n conocimientos en prevenci&oacute;n de la salud e higiene, lo cual los preparar&aacute; para gestionar y administrar los servicios de agua, saneamiento y salud comunitaria. Adem&aacute;s, se implementar&aacute; un Fondo de Cr&eacute;dito que sostenga estas actividades.",
+            "beneficirios": "35 familias con 19 ni&ntilde;os menores de 05 a&ntilde;os.",
+            "actividades": [{
+                    "denominacion": "Rehabilitación y ampliación de infraestructura del sistema de agua potable",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Gestión y administración organizada de los servicios de agua, saneamiento y salud comunitaria",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Fortalecimiento de conocimientos y prácticas en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Instalación de cocinas mejoradas para reducir las emisiones de humo dentro de las viviendas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                    "organizacion_financiera": {
+                        "nombre": "FONDAM",
+                        "razon_social": "Fondo de las Am&eacute;ricas",
+                        "web": "www.fondoamericas.org.pe",
+                        "correo": "fondam@fondamericas.org.pe",
+                        "telefono": "(01) 7481060",
+                        "direccion": "Av. Cristobal de Peralta Sur 1553 - Santiago de Surco Lima 33 Lima, Per&uacute;",
+                        "logo": "assets/images/content/organizaciones_financieras/fondam.png"
+                    },
+                    "moneda": "$",
+                    "importe": 100000,
+                    "periodo_ejecucion": "2012",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                },
+                {
+                    "organizacion_financiera": {
+                        "nombre": "Aporte local ",
+                        "razon_social": "",
+                        "web": "",
+                        "correo": "",
+                        "telefono": "",
+                        "direccion": "",
+                        "logo": ""
+                    },
+                    "moneda": "$",
+                    "importe": 25001.25,
+                    "periodo_ejecucion": "2012",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                }
+            ],
+            "coordenada": [-13.3474, -74.4800],
+            "imagen": "assets/images/content/projects/2012/1.jpg"
+        },
+        {
+            "id": "79245495-9a3a-4b54-b46a-b231820c2539",
+            "denominacion": "Promoci&oacute;n de la diversificaci&oacute;n agropecuaria para el mejoramiento de la nutrici&oacute;n infantil y familiar en Concepci&oacute;n de Cangallo y San Mateo de Jatumpampa, Vinchos, regi&oacute;n Ayacucho.",
+            "periodo": "2013",
+            "detalle": "El proyecto tiene como prop&oacute;sito mejorar el estado nutricional de las familias con ni&ntilde;os menores de cincos a&ntilde;os y madres gestantes de las comunidades de Concepci&oacute;n de Cangallo y San Mateo de Jatumpampa del Distrito de Vinchos en Ayacucho. Las principales l&iacute;neas de acci&oacute;n del proyecto son: La crianza de cuyes y el cultivo de quinua, permitir&aacute;n a las familias acceder al consumo de alimentos formadores y energ&eacute;ticos. Asimismo, la capacitaci&oacute;n de las familias en elaboraci&oacute;n de dietas balancedas a base de carne de cuy, quinua y productos de la zona. Tambi&eacute;n recibir&aacute;n conocimientos en prevenci&oacute;n de la salud e higiene.",
+            "beneficirios": "31 familias con 32 ni&ntilde;os menores de 05 a&ntilde;os de edad.",
+            "actividades": [{
+                    "denominacion": "Crianza de cuyes en galpones",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de alfalfa para la alimentación de cuyes",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de alfalfa",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en crianza de cuyes",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y preparación de alimentos balanceados",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                    "organizacion_financiera": {
+                        "nombre": "FONDAM",
+                        "razon_social": "Fondo de las Am&eacute;ricas",
+                        "web": "www.fondoamericas.org.pe",
+                        "correo": "fondam@fondamericas.org.pe",
+                        "telefono": "(01) 7481060",
+                        "direccion": "Av. Cristobal de Peralta Sur 1553 - Santiago de Surco Lima 33 Lima, Per&uacute;",
+                        "logo": "assets/images/content/organizaciones_financieras/fondam.png"
+                    },
+                    "moneda": "$",
+                    "importe": 200000,
+                    "periodo_ejecucion": "2013",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                },
+                {
+                    "organizacion_financiera": {
+                        "nombre": "Aporte local ",
+                        "razon_social": "",
+                        "web": "",
+                        "correo": "",
+                        "telefono": "",
+                        "direccion": "",
+                        "logo": ""
+                    },
+                    "moneda": "$",
+                    "importe": 16495.30,
+                    "periodo_ejecucion": "2013",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                }
+            ],
+            "coordenada": [-13.2064, -74.4097],
+            "imagen": "assets/images/content/projects/2013/1.jpg"
+        },
+        {
+            "id": "ea309245-868a-4e11-b73c-0b381e73b5d9",
+            "denominacion": "Seguridad alimentaria en Organizaciones de mujeres Rurales.",
+            "periodo": "2014",
+            "detalle": "El proyecto propone mejorar la seguridad alimentaria y nutricional de las mujeres campesinas con ni&ntilde;os menores de cinco a&ntilde;os y madres gestantes de cuatro clubes de madres  del Distrito de Vinchos, Huamanga - Ayacucho; a trav&eacute;s de la diversificaci&oacute;n de la producci&oacute;n agropecuaria, formaci&oacute;n en buenas pr&aacute;cticas de nutrici&oacute;n e higiene, y el fortalecimiento de la organizaci&oacute;n femenina para el sistema de vigilancia alimentaria y nutricional. Este proyecto fue desarrollado con el financiamiento de Manos Unidas.",
+            "beneficirios": "65 madres y 35 ni&ntilde;os (100 personas).",
+            "actividades": [{
+                    "denominacion": "Crianza de cuyes en galpones",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de alfalfa para la alimentación de cuyes",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de hortalizas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Preparación de alimentos balanceados",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación agropecuaria",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en preparación de compost",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                    "organizacion_financiera": {
+                        "nombre": "Manos Unidas",
+                        "razon_social": "Manos Unidas",
+                        "web": "www.manosunidas.org/",
+                        "correo": "info@manosunidas.org",
+                        "telefono": "(084) 273715",
+                        "direccion": "C/ Barquillo, 38",
+                        "logo": "assets/images/content/organizaciones_financieras/manosUnidas.jpg"
+                    },
+                    "moneda": "€",
+                    "importe": 125676.00,
+                    "periodo_ejecucion": "2014",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                },
+                {
+                    "organizacion_financiera": {
+                        "nombre": "Aporte local",
+                        "razon_social": "",
+                        "web": "",
+                        "correo": "",
+                        "telefono": "",
+                        "direccion": "",
+                        "logo": ""
+                    },
+                    "moneda": "€",
+                    "importe": 136118.00,
+                    "periodo_ejecucion": "2014",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                }
+            ],
+            "coordenada": [-13.2422, -74.3531],
+            "imagen": "assets/images/content/projects/2014/1.jpg"
+        },
+        {
+            "id": "90a36d78-fdc4-4729-ba13-b72bacd5fc78",
+            "denominacion": "Seguridad alimentaria en Familias de Comunidades Altoandinas de Ocho comunidades del distrito de Socos.",
+            "periodo": "2015",
+            "detalle": "El proyecto tiene como prop&oacute;sito garantizar la seguridad alimentaria y nutricional de las familias m&aacute;s necesitadas de las localidades de Luyanta, Sapsi, Santa Rosa de Cochabamba, Huayllapata, Accoylla, Yanayacu, San Rafael y Acco capillpata del distrito de Socos, Ayacucho. Las principales l&iacute;neas de acci&oacute;n del proyecto son: La crianza de cuyes y el cultivo de hortalizas, que permitir&aacute;n a las familias acceder al consumo de alimentos de alto valor nutricional. Asimismo, la capacitaci&oacute;n de las familias en elaboraci&oacute;n de dietas balancedas a base de carne de cuy, hortalizas y productos de la zona. Tambi&eacute;n recibir&aacute;n conocimientos en prevenci&oacute;n de la salud e higiene. Igualmente se desarrollaran sus capacidades en igualdad de g&eacute;nero y derechos humanos.",
+            "beneficirios": "90 familias (476 personas). Y 26 ni&ntilde;os menores de 05 a&ntilde;os de edad.",
+            "actividades": [{
+                    "denominacion": "Presentación y difusión del proyecto",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Construcción de galpones de cuyes",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Instalación de alfalfa",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Instalación de Hortalizas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                    "organizacion_financiera": {
+                        "nombre": "Manos Unidas",
+                        "razon_social": "Manos Unidas",
+                        "web": "www.manosunidas.org/",
+                        "correo": "info@manosunidas.org",
+                        "telefono": "(084) 273715",
+                        "direccion": "C/ Barquillo, 38",
+                        "logo": "assets/images/content/organizaciones_financieras/manosUnidas.jpg"
+                    },
+                    "moneda": "€",
+                    "importe": 125676.00,
+                    "periodo_ejecucion": "2015",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                },
+                {
+                    "organizacion_financiera": {
+                        "nombre": "Aporte local",
+                        "razon_social": "",
+                        "web": "",
+                        "correo": "",
+                        "telefono": "",
+                        "direccion": "",
+                        "logo": ""
+                    },
+                    "moneda": "€",
+                    "importe": 136118.00,
+                    "periodo_ejecucion": "2015",
+                    "fecha_inicio": "",
+                    "fecha_fin": "15"
+                }
+            ],
+            "coordenada": [-13.1807, -74.2921],
+            "imagen": "assets/images/content/projects/2015/1.jpg"
+        },
+        {
+            "id": "4f2b7c00-1ec7-443c-88f8-2f59a6a88c4b",
+            "denominacion": "Seguridad Alimentaria en Familias de Comunidades Altoandinas.",
+            "periodo": "2016",
+            "detalle": "El proyecto tiene como prop&oacute;sito garantizar la seguridad alimentaria y nutricional de las familias m&aacute;s necesitadas de ocho comunidades del distrito de Socos, Huamanga - Ayacucho; mediante la instalaci&oacute;n de granjas y huertos familiares, capacitaci&oacute;n en higiene y elaboraci&oacute;n de dietas balancedas; asimismo, capacitaci&oacute;n y sensibilizaci&oacute;n en igualdad de g&eacute;nero y derechos humanos, y fortalecimiento de la organizaci&oacute;n comunitaria para la gesti&oacute;n del sistema de vigilancia nutricional. Proyecto ejecutado con el financiamiento de Manos Unidas.",
+            "beneficirios": "90 familias y 26 ni&ntilde;os (476 personas).",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                "organizacion_financiera": {
+                    "nombre": "Manos Unidas",
+                    "razon_social": "Manos Unidas",
+                    "web": "www.manosunidas.org/",
+                    "correo": "info@manosunidas.org",
+                    "telefono": "(084) 273715",
+                    "direccion": "C/ Barquillo, 38",
+                    "logo": "assets/images/content/organizaciones_financieras/manosUnidas.jpg"
+                },
+                "moneda": "",
+                "importe": 0,
+                "periodo_ejecucion": "2016",
+                "fecha_inicio": "",
+                "fecha_fin": "13"
+            }],
+            "coordenada": [-13.2144, -74.2618],
+            "imagen": "assets/images/content/projects/2016/1.png"
+        },
+        {
+            "id": "3f9da27d-9490-43f9-879c-1ad198bea5d6",
+            "denominacion": "Diversificaci&oacute;n productiva y Seguridad Alimentaria de  Familias rurales.",
+            "periodo": "2017",
+            "detalle": "El objetivo del proyecto es mejorar la seguridad alimentaria y nutricional de las familias vulnerables con hijos menores de cinco a&ntilde;os de cinco barrios de Ccaccamarca del distrito Ocros, Huamanga - Ayacucho; a trav&eacute;s de la diversificaci&oacute;n de la producci&oacute;n agropecuaria de alto valor nutricional, capacitaci&oacute;n en nutrici&oacute;n, higiene, g&eacute;nero, derechos y autoestima. Asimismo, el fortalecimiento de la organizaci&oacute;n comunal para la gesti&oacute;n del sistema de vigilancia alimentaria y nutricional. Este proyecto fue desarrollado con el financiamiento de Manos Unidas.",
+            "beneficirios": "81 familias y 62 ni&ntilde;os (338 personas).",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                "organizacion_financiera": {
+                    "nombre": "Manos Unidas",
+                    "razon_social": "Manos Unidas",
+                    "web": "www.manosunidas.org/",
+                    "correo": "info@manosunidas.org",
+                    "telefono": "(084) 273715",
+                    "direccion": "C/ Barquillo, 38",
+                    "logo": "assets/images/content/organizaciones_financieras/manosUnidas.jpg"
+                },
+                "moneda": "",
+                "importe": 0,
+                "periodo_ejecucion": "2017",
+                "fecha_inicio": "",
+                "fecha_fin": ""
+            }],
+            "coordenada": [-13.4507, -73.9574],
+            "imagen": "assets/images/content/projects/2017/1.png"
+        },
+        {
+            "id": "dca8bdd0-cf86-4293-929a-fa3894a9336b",
+            "denominacion": "Desarrollo agr&iacute;cola sostenible en Santa Rosa de Anta del distrito Huambalpa, Vilcashuam&aacute;n - Ayacucho.",
+            "periodo": "2018",
+            "detalle": "El proyecto propone aumentar la producci&oacute;n agr&iacute;cola de las familias en extrema pobreza de la comunidad de Santa Rosa de Anta, mediante la rehabilitar&aacute;n y ampliaci&oacute;n de canal de riego, capacitaci&oacute;n en t&eacute;cnicas de riego, instalaci&oacute;n de frutales perennes bajo sistema agroforestal, implementaci&oacute;n de buenas pr&aacute;cticas agr&iacute;colas para producci&oacute;n sostenible y fortalecimiento de la comunidad para la gesti&oacute;n de los recursos naturales. Este proyecto fue desarrollado con el financiamiento de Diputaci&oacute;n de Palencia a trav&eacute;s de la Delegaci&oacute;n de Misi&oacute;n Am&eacute;rica de Palencia.",
+            "beneficirios": "21 familias y 05 ni&ntilde;os (63 personas).",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                    "organizacion_financiera": {
+                        "nombre": "Diputaci&oacute;n de Palencia",
+                        "razon_social": "Diputaci&oacute;n de Palencia",
+                        "web": "www.diputaciondepalencia.es/",
+                        "correo": "diputacion@diputaciondepalencia.es",
+                        "telefono": "+34 979715100",
+                        "direccion": "Calle Burgos, 1 34001 Palencia, Espa&ntilde;a",
+                        "logo": "assets/images/content/organizaciones_financieras/diputacionPalencia.jpg"
+                    },
+                    "moneda": "",
+                    "importe": 0,
+                    "periodo_ejecucion": "2018",
+                    "fecha_inicio": "",
+                    "fecha_fin": ""
+                }
+            ],
+            "coordenada": [-13.7945, -73.8247],
+            "imagen": "assets/images/content/projects/2018/1.jpg"
+        },
+        {
+            "id": "baa341ad-9cc8-4cf2-bc9b-28f26377117e",
+            "denominacion": "Fortalecimiento de la seguridad alimentaria en comunidades rurales de Huamanga.",
+            "periodo": "2019",
+            "detalle": "El objetivo del proyecto es fortalecer la seguridad alimentaria en cinco comunidades campesinas del distrito de Santiago de Pischa, Huamanga - Ayacucho; mediante la diversificaci&oacute;n productiva (crianza de cuyes y huertos familiares), formaci&oacute;n agropecuaria, capacitaci&oacute;n en nutrici&oacute;n e higiene, creaci&oacute;n y  capacitaci&oacute;n de las organizaciones comunitarias para la vigilancia alimentaria y nutricional. Este proyecto fue desarrollado con el financiamiento de Manos Unidas.",
+            "beneficirios": "45 familias y 16 ni&ntilde;os (253 personas).",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                "organizacion_financiera": {
+                    "nombre": "Manos Unidas",
+                    "razon_social": "Manos Unidas Per&uacute;",
+                    "web": "www.manosunidasperu.org/",
+                    "correo": "manosunidasintl@gmail.com",
+                    "telefono": "(084) 273715",
+                    "direccion": "",
+                    "logo": "assets/images/content/organizaciones_financieras/manosUnidas.jpg"
+                },
+                "moneda": "",
+                "importe": 0,
+                "periodo_ejecucion": "2019",
+                "fecha_inicio": "",
+                "fecha_fin": "13"
+            }],
+            "coordenada": [-13.0837, -74.3390],
+            "imagen": "assets/images/content/projects/2019-1/1.jpg"
+        },
+        {
+            "id": "db820095-e039-4e40-9f06-255d9316ed1a",
+            "denominacion": "Mejora de la disponibilidad alimentaria a trav&eacute;s de gallineros y huertos familiares en los barrios de Choccepuquio y Occoyhua de Ccaccamarca del distrito Ocros, Huamanga - Ayacucho.",
+            "periodo": "2019",
+            "detalle": "El proyecto tiene como prop&oacute;sito mejorar la disponibilidad de alimentos frescos y nutritivos para las  familias de los barrios, por medio de la capacitaci&oacute;n, instalaci&oacute;n de gallineros para la producci&oacute;n de huevos, ampliaci&oacute;n de la diversidad de hortalizas en huertos familiares, y formaci&oacute;n de l&iacute;deres comunales y familias para la gesti&oacute;n de sus unidades productivas. El proyecto fue ejecutado con el financiamiento de SED.",
+            "beneficirios": "30 familias y 21 ni&ntilde;os (127 personas).",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                "organizacion_financiera": {
+                    "nombre": "SED",
+                    "razon_social": "SED Solidaridad, Educaci&oacute;n, Desarrollo",
+                    "web": "www.sed-ongd.org/",
+                    "correo": "comunicacion@sed-ongd.org",
+                    "telefono": "+34 913344887",
+                    "direccion": "Calle Xaudar&oacute; 23 28034 Madrid, Espa&ntilde;a",
+                    "logo": "assets/images/content/organizaciones_financieras/SED.png"
+                },
+                "moneda": "",
+                "importe": 0,
+                "periodo_ejecucion": "2019",
+                "fecha_inicio": "",
+                "fecha_fin": ""
+            }],
+            "coordenada": [-13.4507, -73.9574],
+            "imagen": "assets/images/content/projects/2019-2/1.png"
+        },
+        {
+            "id": "09430635-ef4a-4667-bff2-82bb766336af",
+            "denominacion": "Ayuda a la emergencia COVID-19 en barrios periurbanos de Huamanga, Perú",
+            "periodo": "2020",
+            "detalle": "El objetivo del proyecto es mejorar la disponibilidad alimentaria frente a la emergencia del COVID-19, mediante la dotación de insumos alimentarios para las familias vulnerables de los barrios periurbanos de Lopezpampa y PukaPuka del distrito de Ayacucho. Este proyecto fue financiado por Solidaridad, Educación y Desarrollo (SED).",
+            "beneficirios": "139 personas (52% mujeres y 48% hombres) agrupadas en 38 núcleos familiares.",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                "organizacion_financiera": {
+                    "nombre": "SED",
+                    "razon_social": "SED Solidaridad, Educaci&oacute;n, Desarrollo",
+                    "web": "www.sed-ongd.org/",
+                    "correo": "comunicacion@sed-ongd.org",
+                    "telefono": "+34 913344887",
+                    "direccion": "Calle Xaudar&oacute; 23 28034 Madrid, Espa&ntilde;a",
+                    "logo": "assets/images/content/organizaciones_financieras/SED.png"
+                },
+                "moneda": "",
+                "importe": 0,
+                "periodo_ejecucion": "2020",
+                "fecha_inicio": "",
+                "fecha_fin": "13"
+            }],
+            "coordenada": [-13.1380, -74.2330],
+            "imagen": "assets/images/content/projects/2020-1/1.jpg"
+        },
+        {
+            "id": "b4be923f-26d7-4719-bc03-2f25505184e0",
+            "denominacion": "Fortalecer la seguridad alimentaria frente a la crisis por coronavirus en Ayacucho.",
+            "periodo": "2020",
+            "detalle": "El objetivo es el de mejorar las condiciones alimentarias e higiénicas ante el COVID-19 de las poblaciones vulnerables del AAHH “General Juan Velasco Alvarado” del Sector I, Ampliación Laderas y Rumichaca, en Mollepata,  distrito de Ayacucho. Este proyecto fue financiado por Manos Unidas de España.",
+            "beneficirios": "350 personas (51% mujeres y 49% hombres) agrupadas en 78 núcleos familiares.",
+            "actividades": [{
+                    "denominacion": "Crianza de gallinas ponedoras de raza mejorada",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Cultivo de quinua",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en higiene y nutrición",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en liderazgo y organización",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                },
+                {
+                    "denominacion": "Capacitación en cultivo de quinua y crianza de gallinas",
+                    "fotos": [
+                        "assets/images/content/projects/2011/1.jpg"
+                    ]
+                }
+            ],
+            "financiamiento": [{
+                "organizacion_financiera": {
+                    "nombre": "Manos Unidas",
+                    "razon_social": "Manos Unidas",
+                    "web": "www.manosunidas.org/",
+                    "correo": "info@manosunidas.org",
+                    "telefono": "(084) 273715",
+                    "direccion": "C/ Barquillo, 38",
+                    "logo": "assets/images/content/organizaciones_financieras/manosUnidas.jpg"
+                },
+                "moneda": "",
+                "importe": 0,
+                "periodo_ejecucion": "2020",
+                "fecha_inicio": "",
+                "fecha_fin": ""
+            }],
+            "coordenada": [-13.1266, -74.2276],
+            "imagen": "assets/images/content/projects/2020-2/1.png"
+        }
+    ]
+}

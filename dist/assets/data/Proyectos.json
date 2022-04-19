@@ -1,0 +1,45 @@
+{
+    "proyectos": [{
+            "nombre": "Distrito de Santiago de Pischa",
+            "periodo": "",
+            "descripcion": "El Distrito de Santiago de Pischa es uno de los diecis&eacute;is distritos que conforman la Provincia de Huamanga, ubicada en el Departamento de Ayacucho, perteneciente a la Regi&oacute;n Ayacucho, en el Per&uacute;.",
+            "coordenada": [-13.085201, -74.392488]
+        },
+        {
+            "nombre": "Distrito de Ocros (Huamanga)",
+            "periodo": "",
+            "descripcion": "El distrito de Ocros, es uno de los diez distritos de la Provincia de Ocros, ubicada en el Departamento de &Aacute;ncash, perteneciente a la Regi&oacute;n Ancash, Per&uacute;. Limita por el Norte con Congas, Huayllacayan y Cajamarquilla; al Sur limita con Cochas y Choque; por el Este con Chilcas y Acas; al Oeste con Copa y Choque; por el noroeste con Congas y Huayllacay&aacute;n. Creado por Decreto Supremo en 1825, en m&eacute;rito por la Independencia dirigidas por San Mart&iacute;n y Bol&iacute;var. Ratificado el 2 de enero de 1857 durante el gobierno del Mariscal Ram&oacute;n Castilla.",
+            "coordenada": [-13.391592, -73.917344]
+        },
+        {
+            "nombre": "Distrito de Huambalpa",
+            "periodo": "",
+            "descripcion": "El distrito de Huambalpa es uno de los ocho distritos que conforman la Provincia de Vilcas Huam&aacute;n, ubicada en el Departamento de Ayacucho, perteneciente a la Regi&oacute;n Ayacucho, Per&uacute;.",
+            "coordenada": [-13.750296500893977, -73.93157780170439]
+        },
+        {
+            "nombre": "Distrito de Ocros (Huamanga)",
+            "periodo": "",
+            "descripcion": "El distrito de Ocros, es uno de los diez distritos de la Provincia de Ocros, ubicada en el Departamento de &Aacute;ncash, perteneciente a la Regi&oacute;n Ancash, Per&uacute;. Limita por el Norte con Congas, Huayllacayan y Cajamarquilla; al Sur limita con Cochas y Choque; por el Este con Chilcas y Acas; al Oeste con Copa y Choque; por el noroeste con Congas y Huayllacay&aacute;n. Creado por Decreto Supremo en 1825, en m&eacute;rito por la Independencia dirigidas por San Mart&iacute;n y Bol&iacute;var. Ratificado el 2 de enero de 1857 durante el gobierno del Mariscal Ram&oacute;n Castilla.",
+            "coordenada": [-13.391592, -73.918743]
+        },
+        {
+            "nombre": "Distrito de Socos",
+            "periodo": "",
+            "descripcion": "El Distrito de Socos es uno de los diecis&eacute;is distritos que conforman la Provincia de Huamanga, ubicada en el Departamento de Ayacucho, perteneciente a la Regi&oacute;n Ayacucho, Per&uacute;.",
+            "coordenada": [-13.210833, -74.2875]
+        },
+        {
+            "nombre": "Distrito de Vinchos",
+            "periodo": "",
+            "descripcion": "El Distrito de Vinchos es uno de los diecis&eacute;is distritos que conforman la Provincia de Huamanga, ubicada en el Departamento de Ayacucho, perteneciente a la Regi&oacute;n Ayacucho, Per&uacute;.",
+            "coordenada": [-13.242041, -74.353588]
+        },
+        {
+            "nombre": "Distrito de Vinchos",
+            "periodo": "",
+            "descripcion": "El Distrito de Vinchos es uno de los diecis&eacute;is distritos que conforman la Provincia de Huamanga, ubicada en el Departamento de Ayacucho, perteneciente a la Regi&oacute;n Ayacucho, Per&uacute;.",
+            "coordenada": [-13.242041, -74.354987]
+        }
+    ]
+}
