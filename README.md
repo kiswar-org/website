@@ -2,14 +2,6 @@
 
 ![webside](./doc/webside.png)
 
+[Demo](https://kiswar-org.github.io/website/)
 
-## StartUp
 
-### Stand-alone
-```bash
-./start-standalone.sh
-```
-### Docker
-```bash
-./start-docker.sh
-```
